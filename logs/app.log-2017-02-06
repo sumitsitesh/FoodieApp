@@ -1,0 +1,33 @@
+[06 02 2017 09:27:54.040] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 09:36:35.077] [DEBUG] - Mongoose is now disconnected..!
+[06 02 2017 09:36:41.205] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 09:58:25.051] [DEBUG] - Mongoose is now disconnected..!
+[06 02 2017 09:58:36.015] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 10:08:05.138] [DEBUG] - Inside user post
+[06 02 2017 10:08:58.109] [DEBUG] - Inside user post
+[06 02 2017 10:09:21.994] [DEBUG] - Inside user post
+[06 02 2017 10:09:25.772] [DEBUG] - Inside user post
+[06 02 2017 10:09:27.262] [DEBUG] - Inside user post
+[06 02 2017 10:10:06.628] [DEBUG] - Inside user post
+[06 02 2017 10:11:31.909] [DEBUG] - Inside user post
+[06 02 2017 10:11:45.753] [DEBUG] - Inside user post
+[06 02 2017 10:12:15.487] [DEBUG] - Inside user post
+[06 02 2017 10:12:27.778] [DEBUG] - Inside user post
+[06 02 2017 10:12:36.653] [DEBUG] - Mongoose is now disconnected..!
+[06 02 2017 10:14:20.279] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 10:14:22.724] [DEBUG] - Inside ress get
+[06 02 2017 10:14:45.848] [DEBUG] - Inside ress get
+[06 02 2017 10:14:47.628] [DEBUG] - Inside ress get
+[06 02 2017 10:14:48.489] [DEBUG] - Inside ress get
+[06 02 2017 10:14:49.213] [DEBUG] - Inside ress get
+[06 02 2017 10:14:49.933] [DEBUG] - Inside ress get
+[06 02 2017 10:14:50.664] [DEBUG] - Inside ress get
+[06 02 2017 10:14:52.165] [DEBUG] - Inside ress get
+[06 02 2017 10:14:52.910] [DEBUG] - Inside ress get
+[06 02 2017 10:15:01.813] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 10:15:04.289] [DEBUG] - Inside ress get
+[06 02 2017 10:17:47.808] [DEBUG] - Mongoose is now disconnected..!
+[06 02 2017 10:17:55.564] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 10:17:58.334] [DEBUG] - Inside ress get
+[06 02 2017 10:18:18.305] [DEBUG] - Mongoose is now connected to  mongodb://127.0.0.1:27017/zynla
+[06 02 2017 10:18:21.077] [DEBUG] - Inside ress get
